@@ -38,7 +38,7 @@ namespace TP0_CS_Vilosio_Sofia
                                 if (personasYNumeros.Any(x => x.Numero == numero))
                                 {
                                     var persona = personasYNumeros.First(x => x.Numero == numero);
-                                    Console.WriteLine($"El numero {persona.Numero} ha sido asignado a {persona.NombreYApellido}");
+                                    Console.WriteLine($"El numero {persona.Numero} ya fue asignado a {persona.NombreYApellido}");
                                     esValido = false;
                                 }
                             }
@@ -50,7 +50,7 @@ namespace TP0_CS_Vilosio_Sofia
                     }
                     PersonaYNumero Persona = new PersonaYNumero(nombre, numero);
                     personasYNumeros.Add(Persona);
-
+                    Console.WriteLine($"El numero {Persona.Numero}  ha sido asignado a {Persona.NombreYApellido}");
                 }
 
                 if (decision == "2")
