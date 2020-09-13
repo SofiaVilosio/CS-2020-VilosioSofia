@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.AssemblyInfo.cs
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.exe
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.deps.json
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.runtimeconfig.json
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.dll
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\bin\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.pdb
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.dll
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.pdb
+C:\Users\Usuario\Documents\UTN\3- TERCER AÑO\CS\CS-2020-Vilosio Sofia\TP0-CS-Vilosio Sofia\obj\Debug\netcoreapp3.1\TP0-CS-Vilosio Sofia.genruntimeconfig.cache
