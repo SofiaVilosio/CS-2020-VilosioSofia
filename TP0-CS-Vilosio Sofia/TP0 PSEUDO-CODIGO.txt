@@ -1,0 +1,12 @@
+Pedir nombre y apellido
+Recorrer mientras el numero no sea valido
+	Pedir numero
+	Si el numero es un numero
+		Si el numero está entre 0 y 999
+			El numero es valido
+			Si el numero ya fue elegido
+				Mostrar mensaje de que el numero no está disponible
+				El numero no es valido, ya fue elegido.
+	Sino, el numero no es valido. Es menor a 0 o mayor a 999
+Agregar nombre, apellido y numero a la lista de guardado
+Mostrar mensaje de que ha sido asignado el numero
